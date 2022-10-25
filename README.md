@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#  Hello Microverse
+#  HELLO-MICROVERSE
 
-> Hello Microverse is a simple way to learn about Linters to check for errors in our code as we work with other coding partners
+> Hello Microverse is a simple project build with HTML/CSS only.
+> It´s an easy way to learn about Linters to check for errors in our code as we work with other coding partners.
 
 
 ## Built With
@@ -10,49 +11,38 @@
 - HTML
 - CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these steps:
 
+1. Navigate to the folder on your machine where you want to save your files
 
-To get a local copy up and running follow these simple example steps.
+    **``folder@PC-Name:~$ cd <folder>``**
+
+2. Clone the repository or download the Zip folder:
+
+    **``git clone https://github.com/HunterX-7/Hello-Microverse.git``**
 
 ### Prerequisites
 
-Basics of HTML, CSS
+-Basics of HTML, CSS
 
-### Setup
+-Web browser 
 
-OS: 64-bit Windows 10
-Processor: AMD RYZEN-3600X 4.1 GHz
-Memory: 16 GB RAM
-Graphics: Nvidia GPU GeForce GTX 970
-Storage: 1000 GB
+-Text editor
 
 ### Install
 
-NODE js, Visual studio Code, gitbash
+Node js, Visual studio Code, Git Bash
 
-### Usage
-
-Low
 
 ### Run tests
 
-Lighthouse
-Webhint
-Stylelint
-node_modules checker
-
-### Deployment
-
-
+The following test will run automatically as you try to pull request:
+-Lighthouse
+-Webhint
+-Stylelint
+-node_modules checker
 
 ## Authors
 
@@ -77,9 +67,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
